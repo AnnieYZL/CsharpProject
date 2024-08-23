@@ -1,0 +1,11 @@
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\bin\Debug\net8.0\SV21T1080067.DomainModels.deps.json
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\bin\Debug\net8.0\SV21T1080067.DomainModels.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\bin\Debug\net8.0\SV21T1080067.DomainModels.pdb
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\SV21T1080067.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\SV21T1080067.DomainModels.AssemblyInfoInputs.cache
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\SV21T1080067.DomainModels.AssemblyInfo.cs
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\SV21T1080067.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\SV21T1080067.DomainModels.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\refint\SV21T1080067.DomainModels.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\SV21T1080067.DomainModels.pdb
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DomainModels\obj\Debug\net8.0\ref\SV21T1080067.DomainModels.dll

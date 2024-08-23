@@ -1,0 +1,17 @@
+.field-validation-error{
+    color: red;
+}
+.ellipsis {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.parent{
+    width: 80px;
+}
+.line-overflow-email{
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

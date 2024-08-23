@@ -1,0 +1,15 @@
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\bin\Debug\net8.0\SV21T1080067.DataLayers.deps.json
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\bin\Debug\net8.0\SV21T1080067.DataLayers.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\bin\Debug\net8.0\SV21T1080067.DataLayers.pdb
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.csproj.AssemblyReference.cache
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.AssemblyInfoInputs.cache
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.AssemblyInfo.cs
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.csproj.CoreCompileInputs.cache
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\refint\SV21T1080067.DataLayers.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T1080067.DataLayers.pdb
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\ref\SV21T1080067.DataLayers.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\bin\Debug\net8.0\SV21T1080067.DomainModels.dll
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\bin\Debug\net8.0\SV21T1080067.DomainModels.pdb
+C:\Users\annie\OneDrive\Documents\Workspace\KTPM24n25\LapTrinhUngDungWeb\Project\SV21T1080067\SV21T1080067.DataLayers\obj\Debug\net8.0\SV21T108.A778AE0F.Up2Date

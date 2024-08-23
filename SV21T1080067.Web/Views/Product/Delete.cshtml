@@ -1,0 +1,52 @@
+﻿@model Product
+@{
+    ViewBag.Title = "Xóa Mặt hàng";
+}
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Product/Delete/@Model.ProductID" method="post">
+
+            <div class="form-group">
+                <label class="col-sm-2">Tên Mặt hàng:</label>
+                <p class="form-control-static col-sm-10">@Model.ProductName</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Đơn vị tính:</label>
+                <p class="form-control-static col-sm-10">@Model.Unit</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Giá:</label>
+                <p class="form-control-static col-sm-10">@Model.Price</p>
+            </div>
+
+
+            <div class="form-group" style="width: 100%; height: 300px;">
+                <label class="col-sm-2">Ảnh:</label>
+                <img class="img-bordered col-sm-10" src="~/images/products/@Model.Photo" style="margin-top: 10px; width: 150px;" />
+            </div>
+
+            <div class="form-group text-right">
+                @if (ViewBag.AllowDelete)
+                {
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fa fa-trash"></i>Xóa dữ liệu
+                    </button>
+                }
+                else
+                {
+                    <span style="color:red">Không được phép xóa mặt hàng này!</span>
+                }
+                <a href="~/Product" class="btn btn-default"> Quay lại</a>
+            </div>
+
+
+
+        </form>
+
+    </div>
+
+</div>

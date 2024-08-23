@@ -1,0 +1,66 @@
+﻿@model Employee
+@{
+    ViewBag.Title = "Xóa Nhân viên";
+}
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Employee/Delete/@Model.EmployeeID" method="post">
+            <div class="form-group">
+                <label class="col-sm-2">Họ và tên:</label>
+                <p class="form-control-static col-sm-10">@Model.FullName</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Ngày sinh:</label>
+                <p class="form-control-static col-sm-10">@Model.BirthDate.ToString("dd/MM/yyyy")</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Địa chỉ:</label>
+                <p class="form-control-static col-sm-10">@Model.Address</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Điện thoại:</label>
+                <p class="form-control-static col-sm-10">@Model.Phone</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Email:</label>
+                <p class="form-control-static col-sm-10">@Model.Email</p>
+            </div>
+
+            <div class="form-group">
+                <label class="col-sm-2">Trạng thái:</label>
+                <p class="form-control-static col-sm-10">@(Model.IsWorking ? "Nhân viên đang làm việc" : "Nhân viên đã nghỉ việc")</p>
+            </div>
+
+            <div class="form-group" style="width: 100%; height: 300px;">
+                <label class ="col-sm-2">Ảnh cá nhân:</label>
+                <img class="img-bordered col-sm-10" src="~/images/employees/@(string.IsNullOrWhiteSpace(Model.Photo) ? "nophoto.png" : Model.Photo)" style="margin-top: 10px; width: 150px;" />
+            </div>
+
+            <div class="form-group text-right">
+                @if (ViewBag.AllowDelete)
+                {
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fa fa-trash"></i>Xóa dữ liệu
+                    </button>
+                }
+                else
+                {
+                    <span style="color:red">Không được phép xóa nhân viên này!</span>
+                }
+                <a href="~/Employee" class="btn btn-default"> Quay lại</a>
+            </div>
+
+
+        </form>
+
+    </div>
+
+</div>

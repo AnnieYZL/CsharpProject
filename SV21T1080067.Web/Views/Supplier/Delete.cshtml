@@ -1,0 +1,62 @@
+﻿@model Supplier
+@{
+    ViewBag.Title = "Xóa Nhà cung cấp";
+}
+<div class="box box-danger">
+    <div class="box-body">
+        <form action="~/Supplier/Delete/@Model.SupplierID" method="post">
+
+            <div class="form-group">
+                <label class="col-sm-2">Tên nhà cung cấp:</label>
+                <p class="form-control-static col-sm-10">@Model.SupplierName</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Tên giao dịch:</label>
+                <p class="form-control-static col-sm-10">@Model.ContactName</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Điện thoại:</label>
+                <p class="form-control-static col-sm-10" >@Model.Phone</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Email:</label>
+                <p class="form-control-static col-sm-10">@Model.Email</p>
+            </div>
+
+            <div class="form-group">
+                <label class ="col-sm-2">Địa chỉ:</label>
+                <p class="form-control-static col-sm-10">@Model.Address</p>
+            </div>
+
+
+            <div class="form-group">
+                <label class="col-sm-2">Tỉnh thành:</label>
+                <p class="form-control-static col-sm-10">@Model.Province</p>
+            </div>
+
+            <div class="form-group text-right">
+                @if (ViewBag.AllowDelete)
+                {
+                    <button type="submit" class="btn btn-danger">
+                        <i class="fa fa-trash"></i>Xóa dữ liệu
+                    </button>
+                }
+                else
+                {
+                    <span style="color:red">Không được phép xóa nhà cung cấp này!</span>
+                }
+                <a href="~/Supplier" class="btn btn-default"> Quay lại</a>
+            </div>
+
+
+        </form>
+
+    </div>
+
+</div>
